@@ -50,7 +50,7 @@
             '<button class="qr_error_close" type="button" aria-label="Zamknij" onclick="qrFailureClose()"></button>',
             '<div class="qr_error_icon" aria-hidden="true"></div>',
             '<p class="qr_error_title">Wystąpił błąd</p>',
-            '<p class="qr_error_description">Nie możemy wyświetlić Twoich danych.<br>Spróbuj ponownie później.</p>',
+            '<p class="qr_error_description">Upewnij się, że skanujesz lub wpisujesz.<br>właściwy kod, lub spróbuj ponownie poźniej</p>',
             '<div class="qr_error_buttons">',
             '<button class="qr_error_button primary" type="button" onclick="restartQrFailure()">Spróbuj ponownie</button>',
             '<button class="qr_error_button secondary" type="button" onclick="qrFailureClose()">Zamknij</button>',
